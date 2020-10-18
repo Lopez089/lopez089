@@ -18,6 +18,13 @@ Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. 
   <img alt="ALT TEXT" height="24" width="24"
        src="https://simpleicons.org/icons/linkedin.svg">
 </a>
+   
+<a target="_blank"
+   rel="noopener noreferrer"
+   href="https://www.linkedin.com/in/juanlopezaragon/">
+  <img alt="ALT TEXT" height="24" width="24"
+       src="https://simpleicons.org/icons/linkedin.svg">
+</a>
 
 <a target="_blank"
    rel="noopener noreferrer"
@@ -25,18 +32,12 @@ Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. 
   <img alt="ALT TEXT" height="24" width="24"
        src="https://simpleicons.org/icons/linkedin.svg">
 </a>
+
+<a target="_blank"
+   rel="noopener noreferrer"
+   href="https://medium.com/@aragonlopezjuan87">
+  <img alt="ALT TEXT" height="24" width="24"
+       src="https://simpleicons.org/icons/medium.svg">
+</a>
 </div>
-<!--
-**Lopez089/lopez089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
