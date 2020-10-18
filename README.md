@@ -2,7 +2,7 @@
 
 Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. Me gusta todo lo relacionado con la tecnología web. Actualmente estoy aprendiendo TypeScrip y estructuras de datos. Uso a diario HTML5 Css3 JavaScript React. Contáctame si tienes lo mismo interesante o alguna pregunta.
 
-<img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
+<img src="https://simpleicons.org/icons/react.svg" />
 
 
 <!--
