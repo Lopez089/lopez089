@@ -2,7 +2,7 @@
 
 Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. Me gusta todo lo relacionado con la tecnología web. Actualmente estoy aprendiendo TypeScrip y estructuras de datos. Uso a diario HTML5 Css3 JavaScript React. Contáctame si tienes lo mismo interesante o alguna pregunta.
 
-<a href='https://juan-lopez-87.firebaseapp.com/'><img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/react.svg" /></a>
+##### Contáctame: 
 
 <a target="_blank"
    rel="noopener noreferrer"
