@@ -7,16 +7,25 @@ Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. 
 - 👯 Estoy buscando colaborar en proyectos realizados en javaScript, React.
 - 💬 Preguntame sobre desarrollo web.
 
-##### Contáctame: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopez089&layout=compact)]()
+
+#### Contáctame: 
+
+<div>
+<a target="_blank"
+   rel="noopener noreferrer"
+   href="">
+  <img alt="ALT TEXT" height="24" width="24"
+       src="https://simpleicons.org/icons/linkedin.svg">
+</a>
 
 <a target="_blank"
    rel="noopener noreferrer"
    href="">
   <img alt="ALT TEXT" height="24" width="24"
-       src="https://unpkg.com/simple-icons@v3/icons/react.svg">
+       src="https://simpleicons.org/icons/linkedin.svg">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopez089&layout=compact)]()
+</div>
 <!--
 **Lopez089/lopez089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
