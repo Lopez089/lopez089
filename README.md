@@ -1,12 +1,10 @@
 ![me](https://github.com/Lopez089/lopez089/blob/main/header.png?raw=true)
 
-## Frontend developer | javaScript & React |
-
 Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. Me gusta todo lo relacionado con la tecnología web. Actualmente estoy aprendiendo TypeScrip y estructuras de datos. Uso a diario HTML5 Css3 JavaScript React. Contáctame si tienes lo mismo interesante o alguna pregunta.
 
 <a href='https://juan-lopez-87.firebaseapp.com/'><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopez089&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopez0890&layout=compact)]()
 <!--
 **Lopez089/lopez089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
