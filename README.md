@@ -12,28 +12,28 @@ Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. 
 #### Contáctame: 
 
 
-      <a target="_blank"
+ <a target="_blank"
          rel="noopener noreferrer"
          href="">
         <img alt="ALT TEXT" height="24" width="24"
              src="https://simpleicons.org/icons/linkedin.svg">
       </a>
 
-      <a target="_blank"
+   <a target="_blank"
          rel="noopener noreferrer"
          href="https://www.linkedin.com/in/juanlopezaragon/">
         <img alt="ALT TEXT" height="24" width="24"
              src="https://simpleicons.org/icons/linkedin.svg">
       </a>
 
-      <a target="_blank"
+   <a target="_blank"
          rel="noopener noreferrer"
          href="">
         <img alt="ALT TEXT" height="24" width="24"
              src="https://simpleicons.org/icons/linkedin.svg">
       </a>
 
-      <a target="_blank"
+  <a target="_blank"
          rel="noopener noreferrer"
          href="https://medium.com/@aragonlopezjuan87">
         <img alt="ALT TEXT" height="24" width="24"
