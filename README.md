@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋, Soy Juan López Aragón
 
 <!--
 **Lopez089/lopez089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
