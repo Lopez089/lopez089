@@ -1,4 +1,4 @@
-![me](https://github.com/Lopez089/lopez089/blob/main/header.png?raw=true)
+![me](https://github.com/Lopez089/lopez089/blob/main/header1.png?raw=true)
 
 Soy un desarrollador FrontEnd que le gusta crear sitios web y aplicaciones web. Me gusta todo lo relacionado con la tecnología web. Actualmente estoy aprendiendo TypeScrip y estructuras de datos. Uso a diario HTML5 Css3 JavaScript React. Contáctame si tienes lo mismo interesante o alguna pregunta.
 
