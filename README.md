@@ -1,4 +1,4 @@
-![me](https://github.com/Lopez089/lopez089/blob/main/Black_and_Beige_Personal_Twitter_Cover.jpg?raw=true)
+![me](https://github.com/Lopez089/lopez089/blob/main/Black%20and%20Beige%20Personal%20Twitter%20Cover.jpg)
 
 ¡Hola! Soy un apasionado desarrollador FrontEnd con habilidades en HTML5, CSS3, JavaScript y React 🚀. Me encanta crear sitios web y aplicaciones web que no solo sean atractivos, sino también funcionales y fáciles de usar. Además, estoy continuamente ampliando mis conocimientos y habilidades en el mundo de la tecnología web, y actualmente estoy aprendiendo TypeScript y estructuras de datos 📚. Si estás interesado en trabajar juntos o simplemente quieres hablar sobre tus proyectos, ¡contáctame! 📧
 
